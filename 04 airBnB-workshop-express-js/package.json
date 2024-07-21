@@ -1,0 +1,28 @@
+{
+  "name": "airbnb-workshop-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeyanaNikolova/airBnB-workshop-expressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeyanaNikolova/airBnB-workshop-expressJS/issues"
+  },
+  "homepage": "https://github.com/DeyanaNikolova/airBnB-workshop-expressJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
